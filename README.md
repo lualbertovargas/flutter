@@ -80,6 +80,10 @@ and see the results instantly without restarting your app or losing its state.
 
 [![Hot reload animation][]][Hot reload]
 
+### Ease of integrating packages
+
+Flutter enables fast package integration. To view the package manager for the Dart programming language, which contains reusable libraries and packages for Flutter and general Dart programs, visit [pub.dev](https://pub.dev/)
+
 ### Extensible and open model
 
 Flutter works with any development tool (or none at all), and also includes
@@ -117,3 +121,4 @@ Information on how to get started can be found in our
 [macOS FFI]: https://docs.flutter.dev/development/platform-integration/macos/c-interop
 [platform channels]: https://docs.flutter.dev/development/platform-integration/platform-channels
 [interop example]: https://github.com/flutter/flutter/tree/master/examples/platform_channel
+
